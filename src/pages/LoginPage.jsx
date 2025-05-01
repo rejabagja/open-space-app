@@ -22,7 +22,7 @@ function LoginPage() {
       </header>
       <article className="login-page__main">
         <h2>
-          See <strong>The World</strong>, <br />
+          See <strong>The Entire World</strong>, <br />
           Through Open Space App.
         </h2>
 
